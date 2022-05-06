@@ -96,7 +96,7 @@ These Beats allow us to collect the following information from each machine:
 
 * Filebeat is used to collect system and event log data that an administrator can use and monitor the network. [Filebeat Monitoring](https://github.com/efankam12/GWU-Cybersecurity-Project-1/blob/main/Ansible/Filebeat%20Monitoring.png)
 
-* Metricbeat is another tool used to monitor virtial devices and machines. Metricbeat monitor the services currently running on the web server. 
+* Metricbeat is another tool used to monitor virtial devices and machines. Metricbeat monitor the services currently running on the web server. [Metric Monitoring](https://github.com/efankam12/GWU-Cybersecurity-Project-1/blob/main/Ansible/Metricbeat%20Monitoring.png) 
 
 ### Using the Playbook
 In order to use the playbook, you will need to have an Ansible control node already configured. Assuming you have such a control node provisioned: 
