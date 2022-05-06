@@ -2,7 +2,7 @@
 
 This Repository will hold Linux scripts, Network diagram along with Ansible play-book from azure virtual lab. 
 
-![Network Diagram](https://github.com/efankam12/GWU-Cybersecurity-Project-1/blob/main/Diagrams/Topology.png)
+![Network Diagram] (https://github.com/efankam12/GWU-Cybersecurity-Project-1/blob/main/Diagrams/Topology.png)
 
  These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the code file may be used to install only certain pieces of it, such as Filebeat.
 
